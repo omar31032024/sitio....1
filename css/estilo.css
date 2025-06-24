@@ -1,0 +1,30 @@
+h1{
+	color:#564EF0;
+	text-align: center;
+}
+h2{
+	color:#6136DC;
+}
+body{
+	background: linear-gradient(to top, #B9FAA0 ,#F7BAEF );
+}
+p{
+	color:#026F0A ;
+	font-family:conformity ;
+	font-size: 20px;
+}
+p{
+	text-align: center;
+}
+tr,td{
+	text-align: center;
+	color: #BA4A00;
+}
+.texto{
+	font-weight: bold;
+}
+#contenedor{
+	border: 1px solid #5B2C6F;
+	padding: 25px;
+	text-align: center;
+}
